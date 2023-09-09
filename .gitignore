@@ -1,0 +1,5 @@
+env3.9/
+djchat/.env
+djchat/db.sqlite3
+djchat/.DS_Store
+__pycache__
